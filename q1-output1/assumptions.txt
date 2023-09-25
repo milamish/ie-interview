@@ -1,0 +1,6 @@
+
+Assumptions:
+1. The given vertex at index 0 is chosen as the reference point for scaling.
+2. Scaling is applied independently along each axis (x, y, z) based on the provided scaling factors.
+3. The cuboid is assumed to have a certain orientation, and scaling is applied accordingly.
+4. Visualization assumes a fixed orientation for the cuboid to show the effects of scaling clearly.
